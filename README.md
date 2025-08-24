@@ -18,9 +18,9 @@ The Doctor Appointment Booking System is a web application designed to facilitat
 ## Installation
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Duvva-S-N-Kusuma-Haranadh/Web-Development-Project---DocConnect.git
+    git clone https://github.com/Duvva-S-N-Kusuma-Haranadh/DocConnect.git
     ```
-2. **Import the project** into your preferred IDE (e.g., Eclipse, IntelliJ IDEA).
+2. **Import the project** into your preferred IDE (e.g., Apache NetBeans, Eclipse, IntelliJ IDEA).
 3. **Configure the database**:
     - Create a oracle database named `Appointments` , `Doctors`, `Patients`.
     - Import the provided SQL script to set up the tables.
